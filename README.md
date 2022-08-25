@@ -15,7 +15,7 @@ Clase 2
 
 Clase 3
 ==
-
+![alt text](https://github.com/spevill/Notebook_BASESDEDATOS/blob/main/TablaClase3.png)  
 La repetición de datos en una tabla es Redundancia. La inconsistencia de datos es el intento de repetición de un dato pero escrito de forma diferente.
 
 
