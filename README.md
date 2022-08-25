@@ -11,6 +11,7 @@ Ejercicio en el archivo `Formulario1`
 
 Clase 2
 ==  
+![alt text](https://github.com/spevill/Notebook_BASESDEDATOS/blob/main/EjercicioClase2.png)
 
 
 Clase 3
