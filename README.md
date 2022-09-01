@@ -20,3 +20,9 @@ Clase 3
 La repetición de datos en una tabla es Redundancia. La inconsistencia de datos es el intento de repetición de un dato pero escrito de forma diferente.
 
 
+Clase 4
+===  
+Partes de la base de datos  
+-Nombre de la base de datos   
+-Nombre Tablas   
+-Nombres Columnas  
