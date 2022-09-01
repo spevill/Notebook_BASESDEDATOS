@@ -23,6 +23,13 @@ La repetición de datos en una tabla es Redundancia. La inconsistencia de datos 
 Clase 4
 ===  
 Partes de la base de datos  
--Nombre de la base de datos   
--Nombre Tablas   
--Nombres Columnas  
+  -Nombre de la base de datos   
+  -Nombre Tablas   
+  -Nombres Columnas (La primera siempre es ID)
+  
+  Para crear una base de datos podemos seguir los siguientes pasos:
+  1-Planear tablas  
+  2-Determinar los campos  
+  3-Determinar las llaves primarias  
+  4-Determinar las relaciones entre tablas  
+  5-Identificar y remover datos repetidos  
